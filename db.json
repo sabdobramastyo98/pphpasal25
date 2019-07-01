@@ -1,0 +1,94 @@
+{
+  "pphpasal25" : [
+    { 
+      "id" : 1,
+      "soal" : "Besarnya angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak untuk setiap bulan adalah sebesar…..",
+      "jawabana" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Masa Pajak Penghasilan tahun pajak yang sekarang dikurangi PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
+      "jawabanb" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Masa Pajak Penghasilan tahun pajak yang sekarang ditambah PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
+      "jawabanc" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Tahunan Pajak Penghasilan tahun pajak yang lalu ditambah PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
+      "jawaband" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Tahunan Pajak Penghasilan tahun pajak yang lalu dikurangi PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 2,
+      "soal" : "Bagaimana cara menghtung angsuran PPh Pasal 25 tahun ini?",
+      "jawabana" :  "Dasar perhitungan angsuran dibagi 1 tahun",
+      "jawabanb" :  "Dasar perhitungan angsuran dibagi 3 bulan",
+      "jawabanc" :  "Dasar perhitungan angsuran dibagi 6 bulan",
+      "jawaband" :  "Dasar perhitungan angsuran dibagi banyaknya bulan dalam bagian tahun pajak lalu",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 3,
+      "soal" : "Angsuran PPh Pasal 25 dibayar atau disetor sendiri oleh Wajib Pajak paing lambat tanggal…..",
+      "jawabana" :  "Tanggal 10 bulan takwim berikutnya",
+      "jawabanb" :  "Tanggal 15 bulan takwim berikutnya",
+      "jawabanc" :  "Tanggal 20 bulan takwim berikutnya",
+      "jawaband" :  "Tanggal 25 bulan takwim berikutnya",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 4,
+      "soal" : "PPh Pasal 25 bagi Wajib Pajak baru, Bank, BUMN, BUMD, Wajib Pajak Masuk Bursa, dan Wajib Pajak lainnya yang berdasarkan ketentuan peraturan perundang-undangan harus membuat laporan keuangan berkala, dan Wajib Pajak orang pribadi pengusaha tertentu dengan tarif paling tinggi…..",
+      "jawabana" :  "0,25% dari peredaran bruto",
+      "jawabanb" :  "0,5% dari peredaran bruto",
+      "jawabanc" :  "0,75% dari peredaran bruto",
+      "jawaband" :  "10% dari peredaran bruto",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 5,
+      "soal" : "Batas waktu penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan bagi Wajib Pajak orang pribadi adalah…..",
+      "jawabana" :  "Awal bulan ketiga tahun pajak berikutnya",
+      "jawabanb" :  "Akhir bulan ketiga tahun pajak berikutnya",
+      "jawabanc" :  "Awal bulan keempat tahun pajak berikutnya",
+      "jawaband" :  "Akhir bulan keempat tahun pajak berikutnya",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 6,
+      "soal" : "Pajak penghasilan yang terutang untuk Tuan Kacang berdasarkan SPT pajak penghasilan tahun 2016 sebesar Rp50.000.000,-. Pajak yang teah dipotong atau dipungut oleh pihak ketiga serta yang terutang atau dibayar di luar negeri dalam tahun 2016 sebagai berikut <br> • Pemotongan PPh pasal 21 melalui pemberi kerja sebesar Rp15.000.000,- <br> • Pemotongan PPh Pasal 22 oleh pihak lain sebesar Rp10.000.000,- <br> • Pemotongan pPh Pasal 23 oleh penyelenggara kegiatan sebesar Rp2.500.000,- <br> •  Pembayaran pajak di luar negeri sebesar Rp7.500.000,- seluruhnya dapat dikreditkan (sebagai PPh Pasal 24) <br> Berapakah besarnya angsuran bulanan PPh Pasal 25 untuk Tahun 2017?:", 
+      "jawabana" :  "Rp2.250.000,-",
+      "jawabanb" :  "Rp1.250.000,-",
+      "jawabanc" :  "Rp1.520.000,-",
+      "jawaband" :  "Rp1.220.000,-",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 7,
+      "soal" : "Pajak penghasilan yang terutang untuk PT Sadeni berdasarkan SPT pajak penghasilan tahun 2016 sebesar Rp125.000.000,-. Pajak yang teah dipotong atau dipungut oleh pihak ketiga serta yang terutang atau dibayar di luar negeri dalam tahun 2016 sebagai berikut <br> •  PPh Pasal 22 sebesar Rp30.000.000,- <br> •  PPh Pasal 23 sebesar Rp15.000.000,- <br> •  Pajak penghasilan yang dibayar di luar negeri sebesar Rp42.500.000,- tetapi berdasarkan ketentuan yang dapat dikreditkan (PPh pasal 24) sebesar Rp40.000.000,- <br> Pajak Penghasilan yang telah dipotong/dipungut oleh pihak lain dan yang dibayarkan atau terutang di luar negeri tersebut untuk bagian tahun pajak yang meliputi masa 8 bulan dalam tahun 2016. <br> Berapakah besarnya angsuran bulanan PPh Pasal 25 untuk Tahun 2017?:", 
+      "jawabana" :  "Rp40.000.000,-",
+      "jawabanb" :  "Rp30.000.000,-",
+      "jawabanc" :  "Rp5.000.000,-",
+      "jawaband" :  "Rp6.000.000,-",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 8,
+      "soal" : "Peyampaian SPT masa atas angsuran pajak tersebut dilakukan paling lambat…..",
+      "jawabana" :  "10 hari setelah masa pajak berakhir",
+      "jawabanb" :  "15 hari setelah masa pajak berakhir",
+      "jawabanc" :  "20 hari setelah masa pajak berakhir",
+      "jawaband" :  "25 hari setelah masa pajak berakhir",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 9,
+      "soal" : "Angsuran pajak bulan Maret 2017 dilaporkan paling lambat tanggal…..",
+      "jawabana" :  "10 April 2017",
+      "jawabanb" :  "15 April 2017",
+      "jawabanc" :  "20 April 2017",
+      "jawaband" :  "25 April 2017",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 10,
+      "soal" : "Penghasilan kena pajak PT Brambang Gentolet tahun 2016 adalah Rp700.000.000,-. Sisa kerugian tahun sebelumnya yang masih dapat dikompensasikan Rp800.000.000,-. Sisa kerugian yang belum dikompensasikan tahun 2016 adalah Rp100.000.000,- (= sisa rugi Rp800.000.000,- dikompensasikan dengan penghasilan kena pajak tahun 2016 sebesar Rp700.000.000,-). Berapakah besarnya penghasilan yang dipakai sebagai dasar penghitungan angsuran PPh Pasal 25?",
+      "jawabana" :  "Rp100.000.000,-",
+      "jawabanb" :  "Rp600.000.000,-",
+      "jawabanc" :  "Rp700.000.000,-",
+      "jawaband" :  "Rp800.000.000,-",
+      "kuncijawaban" : "jawabanb"
+    }
+  ]
+}
