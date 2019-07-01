@@ -7,7 +7,7 @@
       "jawabanb" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Masa Pajak Penghasilan tahun pajak yang sekarang ditambah PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
       "jawabanc" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Tahunan Pajak Penghasilan tahun pajak yang lalu ditambah PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
       "jawaband" :  "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Tahunan Pajak Penghasilan tahun pajak yang lalu dikurangi PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Pajak Penghasilan yang terutang menurut Surat Pemberitahuan Tahunan Pajak Penghasilan tahun pajak yang lalu dikurangi PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, dan PPh Pasal 24"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" :  "Dasar perhitungan angsuran dibagi 3 bulan",
       "jawabanc" :  "Dasar perhitungan angsuran dibagi 6 bulan",
       "jawaband" :  "Dasar perhitungan angsuran dibagi banyaknya bulan dalam bagian tahun pajak lalu",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Dasar perhitungan angsuran dibagi banyaknya bulan dalam bagian tahun pajak lalu"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" :  "Tanggal 15 bulan takwim berikutnya",
       "jawabanc" :  "Tanggal 20 bulan takwim berikutnya",
       "jawaband" :  "Tanggal 25 bulan takwim berikutnya",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Tanggal 15 bulan takwim berikutnya"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" :  "0,5% dari peredaran bruto",
       "jawabanc" :  "0,75% dari peredaran bruto",
       "jawaband" :  "10% dari peredaran bruto",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "0,75% dari peredaran bruto"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" :  "Akhir bulan ketiga tahun pajak berikutnya",
       "jawabanc" :  "Awal bulan keempat tahun pajak berikutnya",
       "jawaband" :  "Akhir bulan keempat tahun pajak berikutnya",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Akhir bulan ketiga tahun pajak berikutnya"
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" :  "Rp1.250.000,-",
       "jawabanc" :  "Rp1.520.000,-",
       "jawaband" :  "Rp1.220.000,-",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp1.250.000,-"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" :  "Rp30.000.000,-",
       "jawabanc" :  "Rp5.000.000,-",
       "jawaband" :  "Rp6.000.000,-",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp5.000.000,-"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" :  "15 hari setelah masa pajak berakhir",
       "jawabanc" :  "20 hari setelah masa pajak berakhir",
       "jawaband" :  "25 hari setelah masa pajak berakhir",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "20 hari setelah masa pajak berakhir"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" :  "15 April 2017",
       "jawabanc" :  "20 April 2017",
       "jawaband" :  "25 April 2017",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "20 April 2017"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" :  "Rp600.000.000,-",
       "jawabanc" :  "Rp700.000.000,-",
       "jawaband" :  "Rp800.000.000,-",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp600.000.000,-"
     }
   ]
 }
